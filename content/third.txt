@@ -1,0 +1,4 @@
+
+here is the result : 
+First: hello this is first text file
+Second:hello this is first text fileokay bye
